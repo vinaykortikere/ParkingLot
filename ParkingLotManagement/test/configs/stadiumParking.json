@@ -1,0 +1,19 @@
+{
+"LMVSlots":"1500",
+"HTVSlots":"0",
+"TWVSlots":"1000",
+"FeesType":"RANGE_CUMMULATIVE",
+"feeRanges":{
+	"LMV":[
+		{"startHour":0,"endHour":4,"rate":60,"isDaily":false, "isHourly":false},
+		{"startHour":4,"endHour":12,"rate":120,"isDaily":false, "isHourly":false},
+		{"startHour":12,"endHour":99999,"rate":200,"isDaily":false, "isHourly":true}
+	],
+	"HTV":[],
+	"TWV":[
+		{"startHour":0,"endHour":4,"rate":30,"isDaily":false, "isHourly":false},
+		{"startHour":4,"endHour":12,"rate":60,"isDaily":false, "isHourly":false},
+		{"startHour":12,"endHour":99999,"rate":100,"isDaily":false,"isHourly":true}
+	]
+}
+}

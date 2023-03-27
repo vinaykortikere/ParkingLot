@@ -1,0 +1,10 @@
+[
+{"vehicleType":"MotorCycle","action":"park","vehicleNumber":"KA05MY1111","entryTime":"09-Oct-2022 14:10:00"},
+{"vehicleType":"MotorCycle","action":"park","vehicleNumber":"KA05MY2222","entryTime":"09-Oct-2022 02:10:00"},
+{"vehicleType":"SUV","action":"park","vehicleNumber":"KA05MY3333","entryTime":"09-Oct-2022 12:19:00"},
+{"vehicleType":"SUV","action":"park","vehicleNumber":"KA05MY4444","entryTime":"09-Oct-2022 09:20:00"},
+{"vehicleType":"MotorCycle","action":"unpark","vehicleNumber":"KA05MY1111","exitTime":"09-Oct-2022 17:50:00"},
+{"vehicleType":"MotorCycle","action":"unpark","vehicleNumber":"KA05MY2222","exitTime":"09-Oct-2022 17:09:00"},
+{"vehicleType":"SUV","action":"unpark","vehicleNumber":"KA05MY3333","exitTime":"09-Oct-2022 23:49:00"},
+{"vehicleType":"SUV","action":"unpark","vehicleNumber":"KA05MY4444","exitTime":"09-Oct-2022 22:25:00"}
+]

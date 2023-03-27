@@ -1,0 +1,11 @@
+{
+"LMVSlots":"0",
+"HTVSlots":"0",
+"TWVSlots":"2",
+"FeesType":"FLAT_HOURLY",
+"feeRanges":{
+	"LMV":[{"startHour":0,"endHour":0,"rate":20,"isDaily":false,"isHourly":false}],
+	"HTV":[{"startHour":0,"endHour":0,"rate":50,"isDaily":false,"isHourly":false}],
+	"TWV":[{"startHour":0,"endHour":0,"rate":10,"isDaily":false,"isHourly":false}]
+}
+}
